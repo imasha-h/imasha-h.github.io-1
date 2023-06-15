@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_bedford_framework=self.webpackChunknew_bedford_framework||[]).push([[5989],{14941:function(e,o,n){n.r(o);var r=n(92651),a=n(6370),f=n(1678);o.default=function(e){var o=function(){r.Z.loadAllLazy({load:!0,mode:"cover",useAdvancedPositioning:!0},e)};return o(),a.Z.on(o,f.FY),{loadImages:o,destroy:function(){a.Z.off(o)}}}}}]);
